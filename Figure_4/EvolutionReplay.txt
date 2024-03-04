@@ -1,0 +1,11 @@
+InitialGenotype	FinalGenotype	Count
+WT	WT	4
+WT	poly_YdcI	2
+WT	YdcI	4
+WT	YdcI_polyRY	1
+WT	RY	1
+YdcI	YdcI	9
+YdcI	YdcI_polyRY	2
+YdcI	RY	1
+Rho	Rho	4
+Rho	RY	8
